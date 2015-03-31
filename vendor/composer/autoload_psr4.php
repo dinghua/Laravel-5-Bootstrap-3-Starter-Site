@@ -10,6 +10,8 @@ return array(
     'SuperClosure\\' => array($vendorDir . '/jeremeamia/SuperClosure/src'),
     'Stringy\\' => array($vendorDir . '/danielstjules/stringy/src'),
     'Riogo\\Permiso\\' => array($vendorDir . '/ricardoriogo/permiso/src/Riogo/Permiso'),
+    'Overtrue\\LaravelWechat\\' => array($vendorDir . '/overtrue/laravel-wechat/src'),
+    'Overtrue\\' => array($vendorDir . '/overtrue/wechat/src'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
     'League\\Flysystem\\' => array($vendorDir . '/league/flysystem/src'),
     'Laracasts\\TestDummy\\' => array($vendorDir . '/laracasts/testdummy/src'),

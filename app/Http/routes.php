@@ -30,3 +30,5 @@ if (Request::is('admin/*'))
 {
     require __DIR__.'/admin_routes.php';
 }
+
+Route::any('/wechat', 'WechatController@serve');
